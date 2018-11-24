@@ -9,7 +9,7 @@ export const scope = 'boilerplate.containers.HomePage';
 
 export default defineMessages({
   header: {
-    id: 'app.components.HomePage.header',
+    id: 'boilerplate.components.Header.home',
     defaultMessage: 'This is HomePage component!',
   },
 });
